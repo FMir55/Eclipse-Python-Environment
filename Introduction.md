@@ -36,17 +36,27 @@ Windows => Preference => Pydev => Interpreter => New
 Interpreter Name:         Python2.6 
 Interpreter Executable:   /usr/bin/python2.6
 ========================
-=>OK
+=> OK => OK
+```
+
+###Test & Compile
+```
+File -> New -> Project
+========================
+Project Name:     ( )
+Project type:     Python
+Grammer Version:  2.6
+Interpreter:      Python 2.6
+========================
+=> Finish
 ```
 
 ```
-========================
-"Only" check PyDev for Eclipse in Pydev
-========================
-=>Next
+Right click the object in PyDev Package Explorer
+New-> PyDev Module -> Finish。
 ```
 
-========================
-Restart eclipse
-========================
 ```
+Coding & run
+```
+
