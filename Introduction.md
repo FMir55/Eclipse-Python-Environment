@@ -30,7 +30,7 @@ Restart eclipse
 ========================
 ```
 
-###set pydev
+###pydev Settings
 ```
 Windows => Preference => Pydev => Interpreter => New
 ========================
