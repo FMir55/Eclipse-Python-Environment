@@ -1,6 +1,11 @@
 # Eclipse-build-Python-envirument-
 - source http://www.cnblogs.com/Realh/archive/2010/10/10/1847251.html
 
+###Warm Up
+```
+apt-get install python-pip
+```
+
 ###Install Eclipse & Start
 ```
 sudo apt-get install eclipse
