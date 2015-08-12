@@ -42,7 +42,7 @@ Interpreter Executable:   /usr/bin/python2.6
 
 ###Test & Compile
 ```
-File -> New -> Project
+File -> New -> Project -> Pydev -> Pydev Project -> Next
 ========================
 Project Name:     ( )
 Project type:     Python
